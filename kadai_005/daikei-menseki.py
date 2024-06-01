@@ -4,5 +4,4 @@ high = 5
 
 area = (upper_side + down_side) * high / 2
 
-print(area)
-
+print(str(area) + "cm2")
